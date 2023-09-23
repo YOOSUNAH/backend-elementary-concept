@@ -33,7 +33,7 @@
        'www.google.com' 주소에 대해 검색할 때, 
          DNS가 웹 브라우저에게 찾는 사이트의 IP 주소를 응답하는 과정
 
-       1. DNS recursor가 root name server에 연락
+       1. DNS resolver가 root name server에 연락
         웹 브라우저가 DNS에게 도메인 주소를 물어본다.
         이때 사용되는 DNS 서버를 DNS Recursor라고 한다.
         DNS Recursor가 먼저 전 세계의 DNS 계층 구조의 최상위인 Root Name Server에 연락하여
