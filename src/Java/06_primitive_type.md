@@ -10,4 +10,3 @@
 * double : 8byte : 실수형 4.9E-324 ~ 1.7076931348623147E308
 * char : 2byte : 문자형 (하나의 문자 / 문자타입)
 * boolean :	1byte :	논리형(참과 거짓) true or fase
-* 
