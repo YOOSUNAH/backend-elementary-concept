@@ -1,3 +1,9 @@
+# Programming
+
+---
+### RESTFUL API
+- 
+- 
 - REST(Representational State Transfer) 아키텍처를 따르는 API(Application Programming Interface)를 말한다.
 - API 를 Restful 하게 정의하는 것이다.
     - 여기서, Restful한 방식은 URL은 **자원**, HTTP Method 는 **행위** 라고하는 역할을 구분해서 설계하는 것이다.
