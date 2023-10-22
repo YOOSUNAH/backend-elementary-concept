@@ -1,3 +1,9 @@
+# Programming
+
+---
+### 웹 브라우저에서 www.google.com을 쳤을 때 벌어지는 일
+
+
 **웹 브라우저에서 http://www.google.com 입력 시,**
 
 1. **사용자가 웹 브라우저 검색창에 http://www.google.com/ 입력**
